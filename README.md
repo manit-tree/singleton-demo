@@ -1,5 +1,5 @@
 # singleton-demo
-A mini project for learning Single Pattern. A Class that always return the same instance. 
+A mini project for learning Single Pattern. A Class that always return the same instance. The use case for Singleton pattern might be useful to implement centralize global state.
 
 ## Counter Class
 
